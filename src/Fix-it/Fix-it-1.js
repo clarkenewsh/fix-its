@@ -1,4 +1,5 @@
 const FixIt1 = () => {
+  return (
       <div>
         <h1>FIX IT 1</h1>
         <p>
@@ -11,7 +12,7 @@ const FixIt1 = () => {
           mollit anim id est laborum.
         </p>
       </div>
-    );
+    )
   };
   
   export default FixIt1;
